@@ -1,0 +1,12 @@
+# Dependencies
+/node_modules
+
+# Environment Variables
+.env
+
+# Google Cloud API Key
+# We are explicitly telling git to ignore our secret key file.
+/config/google-vision-api-key.json
+
+# Operating System Files
+.DS_Store
